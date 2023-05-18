@@ -1,4 +1,5 @@
 # TODOs
+- [ ] freeze or not/ lr=.01 or .0001/ better reading csv or imagefolder/ configuration consts/ try different filters/ go with Melanoma and hazem (get things from leaf and top votted)
 - [ ] split 80/10/10 vs 60/20/20
 - [ ] add more data augmentation
     - The labeled dataset was heavily augmented to get more images for training the model under supervision.
